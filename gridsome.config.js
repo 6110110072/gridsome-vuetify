@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'My New Blog',
+  siteName: 'Introduce Myself',
   siteUrl: 'https://6110110072.github.io',
   pathPrefix: '/gridsome-vuetify',
   plugins: [
