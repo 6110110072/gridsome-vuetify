@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'My New Blog',
   siteUrl: 'https://6110110072.github.io',
-  pathPrefix: '/<your-gridsome-repo-name>',
+  pathPrefix: '/gridsome-vuetify',
   plugins: [
     {
       use: "@gridsome/source-filesystem",
