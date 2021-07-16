@@ -78,7 +78,7 @@
 
       <v-row color="accent">
         <v-col cols="12" >
-          <div class="display-2 text-center my-5" >My Developer Story</div>
+          <div class="display-2 text-center my-5" >My Developer Storys</div>
           <Timeline :timeline="aboutData.aboutMe.timeline" />
         </v-col>
       </v-row>
