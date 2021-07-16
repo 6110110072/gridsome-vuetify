@@ -1,0 +1,44 @@
+aboutMe:
+  name: Mr.Chayanon Saelee
+  title: Full Stack Developer
+  bio: This is a short bio about me.
+  long_summary_title: About me
+  long_summary: My name is Chayanon My nickname is Neay I’m 21 years old I’m a Fourth-year student majoring in Computer Engineering at Prince of Songkla University in Thailand  I'm interested in web & Mobile development , Back-End developer and Test Engineer In my spare time, I enjoy playing Game and Listening Music I was an intern at My Health Group as a Developer.
+  hashtags:
+    - "#Fixed 1 bug, spawned 10 bugs"
+  timeline:
+    - event: ปี 2016
+      caption: Project "ฟาร์มฉลาดสร้างสรรค์ท้องทะเล"
+      desc: เข้าร่วมโครงการ National Software Contest 2016 (Final Round) และ โครงการต่อกล้าให้เติบใหญ่ ปีที่ 4
+    - event: ปี 2017
+      caption: Project "Change water machine"
+      desc: เข้าร่วมโครงการ National Software Contest 2016 (Proposal Round) และ Peang minimaker faire 2016
+    - event: ปี 2018
+      caption: Project "InShelter"
+      desc: จดสิทธิบัตรโครงสร้าง และซอฟต์แวร์ เข้าร่วมโครงการ National Software Contest 2018 (Final Round) และ โครงการต่อกล้าให้เติบใหญ่ ปีที่ 6
+    - event: ปี 2020
+      caption: Project "Z-meter"
+      desc: เข้าร่วมโครงการ AIS Pitching และ โครงการ Youth Startup Fund (YSF)
+    - event: ปี 2021
+      caption: Web application for BPlab company
+      desc: ประสบการณ์ทำเว็ปไซต์ให้กับบริษัท BPlab
+
+  skills:
+    - name: Javascript
+      rank: 8
+    - name: PHP
+      rank: 9
+    - name: HTML
+      rank: 8
+    - name: CSS
+      rank: 6
+    - name: Java
+      rank: 5
+    - name: Python
+      rank: 5
+    - name: Dart
+      rank: 5
+    - name: MySQL
+      rank: 9
+    - name: MongoDB
+      rank: 8
